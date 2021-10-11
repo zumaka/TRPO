@@ -1,0 +1,7 @@
+C:\Users\kalpe\source\repos\keyBoardConsole\keyBoardConsole\bin\Debug\keyBoardConsole.exe.config
+C:\Users\kalpe\source\repos\keyBoardConsole\keyBoardConsole\bin\Debug\keyBoardConsole.exe
+C:\Users\kalpe\source\repos\keyBoardConsole\keyBoardConsole\bin\Debug\keyBoardConsole.pdb
+C:\Users\kalpe\source\repos\keyBoardConsole\keyBoardConsole\obj\Debug\keyBoardConsole.csproj.AssemblyReference.cache
+C:\Users\kalpe\source\repos\keyBoardConsole\keyBoardConsole\obj\Debug\keyBoardConsole.csproj.CoreCompileInputs.cache
+C:\Users\kalpe\source\repos\keyBoardConsole\keyBoardConsole\obj\Debug\keyBoardConsole.exe
+C:\Users\kalpe\source\repos\keyBoardConsole\keyBoardConsole\obj\Debug\keyBoardConsole.pdb
